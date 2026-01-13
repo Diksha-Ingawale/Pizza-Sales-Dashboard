@@ -36,6 +36,6 @@ This project presents an interactive **Pizza Sales Analysis Dashboard** built us
 ---
 
 ## 🖼️ Dashboard Preview
-![Pizza Sales Dashboard](Screenshots/pizza_dashboard.png)
+![Pizza Sales Dashboard](dashboard ss.png)
 
 
